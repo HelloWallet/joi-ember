@@ -1,0 +1,21 @@
+{
+  "name": "joi-ember",
+  "version": "1.0.0",
+  "description": "Joi schema to Ember Data model generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Brady",
+  "license": "MIT",
+  "keywords": [
+    "joi",
+    "ember",
+    "ember-data",
+    "schema",
+    "generator"
+  ],
+  "dependencies": {
+    "lodash": "^3.5.0"
+  }
+}
